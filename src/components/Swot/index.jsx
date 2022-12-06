@@ -12,7 +12,7 @@ const Swot = () => {
   return (
     <section className="services section" id="swot">
       <h2 className="section__title">Sơ Bộ Về Kĩ Năng</h2>
-      <span className="section__subtitle">Chịu khó và tử  tế .</span>
+      <span className="section__subtitle">Chịu khó và tử tế .</span>
 
       <div className="services__container container grid">
         <Item
@@ -27,7 +27,7 @@ const Swot = () => {
         />
         <Item
           name="Backend Development"
-          des="Having more than 1+ years of experience in Backend Development"
+          des="Chưa có kinh nghiệm thực tế, nhưng sẽ luôn học hỏi và cố gắng."
           para={
             "Có thể join vào dự án backend sử dụng NodeJS (Express). CRUD, authentication, authorize cơ bản. Có kiến thức cơ bản với các thư viện NodeJS( Express ) như sequelize, mongoose, JWT. Sẵn sàn ghọc tập và làm việc theo yêu cầu"
           }

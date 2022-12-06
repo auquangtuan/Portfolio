@@ -9,7 +9,7 @@ export const projectsData = [
     image: Work1,
     title: "Portfolio Website",
     category: "ReactJS",
-    demo: "https://portfolio-auquangtuan.surge.sh",
+    demo: "https://auquangtuanPortfolio.vercel.app/",
     repo: "https://github.com/auquangtuan/Portfolio",
   },
   {
@@ -33,7 +33,7 @@ export const projectsData = [
     image: Work4,
     title: "Clone Form Login And Register Facebook",
     category: "ReactJS",
-    demo: "https://fb-auquangtuan.surge.sh",
+    demo: "https://auquangtuanfb.vercel.app/",
     repo: "https://github.com/auquangtuan/CloneLoginRegisterFB",
   },
 ];
