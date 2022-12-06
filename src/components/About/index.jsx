@@ -13,7 +13,7 @@ const About = () => {
         <img src={Profile} alt="Profile" className="about__img" />
         <div className="about__data">
           <Info />
-          <p className="about__description">Chào mọi người, mình là Tuấn, một người trái nghành theo đuổi Front-end developer. Sau nhiều năm bôn qua ở Sài Gòn, mình phát hiện rất thích coder, thế là quyết tâm theo đuổi nó. Đến giờ cũng được một năm và tích lũy một số kến thức nhất định. Tin rằng có thể giúp ích cho công ty nhận Tuấn làm Fresher</p>
+          <p className="about__description">Chào mọi người, mình là Tuấn, một người trái nghành theo đuổi Front-end developer. Sau nhiều năm bôn ba ở Sài Gòn, mình phát hiện rất thích code, thế là quyết tâm theo đuổi nó. Đến giờ cũng được một năm và tích lũy một số kến thức nhất định. Tin rằng có thể giúp ích cho công ty nhận Tuấn làm Fresher</p>
           <a download="" href={CV} className="button button--flex">
             Tải CV
             <Files color="var(--container-color)" />
