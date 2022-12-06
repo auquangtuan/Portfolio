@@ -1,6 +1,7 @@
 import Work1 from "../../assets/work1.jpg";
 import Work2 from "../../assets/work2.jpg";
 import Work3 from "../../assets/work3.jpg";
+import Work4 from "../../assets/work4.png";
 
 export const projectsData = [
   {
@@ -8,7 +9,7 @@ export const projectsData = [
     image: Work1,
     title: "Portfolio Website",
     category: "ReactJS",
-    demo: "",
+    demo: "https://portfolio-auquangtuan.surge.sh",
     repo: "https://github.com/auquangtuan/Portfolio",
   },
   {
@@ -26,6 +27,14 @@ export const projectsData = [
     category: "Back-End",
     demo: "https://github.com/auquangtuan/shopping-Backend",
     repo: "https://github.com/auquangtuan/shopping-Backend",
+  },
+  {
+    id: 4,
+    image: Work4,
+    title: "Clone Form Login And Register Facebook",
+    category: "ReactJS",
+    demo: "https://fb-auquangtuan.surge.sh",
+    repo: "https://github.com/auquangtuan/CloneLoginRegisterFB",
   },
 ];
 
