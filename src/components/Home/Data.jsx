@@ -7,7 +7,7 @@ const Data = () => {
     <div className="home__data">
       <h1 className="home__title">
         Âu Quang Tuấn
-        <Hand />
+        <Hand /> <a style={{fontSize : "24px", color : "var(--orange)"}} href="tel:0372733833"> 0372.733.833 </a>
       </h1>
       <h3 className="home__subtitle">Front-End Developer</h3>
       <p className="home__description">
